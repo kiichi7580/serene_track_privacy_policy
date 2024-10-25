@@ -1,0 +1,2 @@
+# serene_track_privacy_policy
+Serene Trackアプリ内のプライバシーポリシー
