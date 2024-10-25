@@ -37,23 +37,23 @@ header h1 {
 }
 
 /* セクションスタイル */
-.terms h2 {
+.policy h2 {
   font-size: 1.4rem;
   margin-top: 20px;
   margin-bottom: 10px;
   color: #34495e;
 }
 
-.terms p {
+.policy p {
   margin-bottom: 15px;
 }
 
-.terms ul {
+.policy ul {
   margin-bottom: 15px;
   padding-left: 20px;
 }
 
-.terms ul li {
+.policy ul li {
   list-style-type: disc;
   margin-bottom: 5px;
 }
@@ -68,7 +68,7 @@ header h1 {
     font-size: 1.8rem;
   }
 
-  .terms h2 {
+  .policy h2 {
     font-size: 1.2rem;
   }
 }
